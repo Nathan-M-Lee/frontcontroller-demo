@@ -10,7 +10,7 @@
         <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
         <property name="hibernate.connection.url">jdbc:postgresql:/nathan-db.cutlceuqhqjb.us-east-2.rds.amazonaws.com</property>
         <property name="hibernate.connection.username">postgres</property>
-        <property name="hibernate.connection.password">LoloElliott#1</property>
+        <property name="hibernate.connection.password">postgres</property>
   
         <!-- SQL dialect -->
         <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
